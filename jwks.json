@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "my-key-id",
+      "use": "sig",
+      "n": "your RSA public key modulus",
+      "e": "your RSA public key exponent"
+    }
+  ]
+}
