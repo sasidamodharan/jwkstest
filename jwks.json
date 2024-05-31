@@ -1,11 +1,5 @@
 {
-  "keys": [
-    {
-      "kty": "RSA",
-      "kid": "my-key-id",
-      "use": "sig",
-      "n": "your RSA public key modulus",
-      "e": "your RSA public key exponent"
-    }
-  ]
+  "kty": "RSA",
+  "n": "vGprYL1Y8-zesRwvQA8ZhPwjkviYSOeoOPIMzC3dAux676-hdim0n0TBNEf0Dc-B-auAx0NXeWbSU8fjZcIo4NzTpeiGA2ovI3PsQwyzFXbwoMfl6u3iSceJOfBWcZMTCSw0HyYlDCbJp2oGoDntAFPhI5-U9ym-KFFe991vY3M",
+  "e": "AQAB"
 }
